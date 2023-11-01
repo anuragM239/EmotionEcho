@@ -1,3 +1,5 @@
+#this is for finding emotion  from random phrase
+
 from pymongo import MongoClient
 import pygame
 import os
